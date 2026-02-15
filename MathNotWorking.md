@@ -1,12 +1,18 @@
-## Welcome to your new Documentation Project
+## A Demonstration of Math Using Markdown Monster and Documentation Monster
 
-Here are a few tips to get started:
+### Problem Statement
 
-* Press **ctrl-n** to create a new Topic
-* Enter text into the main text area using [Markdown formatting](https://documentationmonster.west-wind.com)
-* Use the Topic Editor on the right to enter topic data
-* Use drag and drop in the Topic tree to move topics around
-* Use the Image toolbar icon to select images from disk
-* Paste images from from the clipboard into your text
+Using Documentation Monster, based on Markdown Monster, I assume that Math would function as I am accustomed. However, I am unable to get Math to work using some of the suggested notations using Documentation Monster.
 
-Time to get going!
+### Solutions
+
+I have tried various tips and suggestions and still can't resolve the problem. In general, it seems to be an issue with Rendering Themes. Viewing the page in Markdown Monster rendering is as expected. Using Documentation Monster, rendering fails for some cases.
+
+## ChatGPT Suggested Tests
+
+Following are 10 iconic, widely recognized mathematical / physical results, each with:
+
+-   a short description (glossary-style)
+-   a MathJax-ready LaTeX block you can drop straight into Markdown Monster / Documentation Monster
+
+I’ve leaned toward things that are instantly familiar to mathematicians and resonate culturally, not obscure lemmas that only live in footnotes.

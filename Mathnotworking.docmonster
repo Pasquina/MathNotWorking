@@ -10,8 +10,83 @@
       "link": "MathNotWorking.md",
       "displayType": "index",
       "type": "markdown",
-      "updated": "2026-02-14T21:02:19.7782517-06:00",
-      "classInfo": {}
+      "updated": "2026-02-14T21:08:00.9546827-06:00",
+      "classInfo": {},
+      "topics": [
+        {
+          "id": "_4unjw4qf8k",
+          "parentId": "_index",
+          "title": "Markdown Monster Test Page",
+          "slug": "MathNotWorking/Markdown-Monster-Test-Page",
+          "link": "MathNotWorking/Markdown-Monster-Test-Page.md",
+          "displayType": "topic",
+          "type": "markdown",
+          "sortOrder": 100,
+          "updated": "2026-02-14T21:22:24.6252786-06:00",
+          "classInfo": {}
+        },
+        {
+          "id": "_zw8wpjtke6",
+          "parentId": "_index",
+          "title": "Classical Geometry",
+          "slug": "MathNotWorking/Classical-Geometry",
+          "link": "MathNotWorking/Classical-Geometry.md",
+          "displayType": "header",
+          "type": "markdown",
+          "sortOrder": 90,
+          "updated": "2026-02-14T21:26:08.9164091-06:00",
+          "classInfo": {},
+          "topics": [
+            {
+              "id": "_oaij03m0cx",
+              "parentId": "_zw8wpjtke6",
+              "title": "Pythagorean Theorem",
+              "slug": "MathNotWorking/Classical-Geometry/Pythagorean-Theorem",
+              "link": "MathNotWorking/Classical-Geometry/Pythagorean-Theorem.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "updated": "2026-02-14T21:28:22.4893815-06:00",
+              "classInfo": {}
+            }
+          ]
+        },
+        {
+          "id": "_1mc4mf42aw",
+          "parentId": "_index",
+          "title": "Modern Physics",
+          "slug": "MathNotWorking/Modern-Physics",
+          "link": "MathNotWorking/Modern-Physics.md",
+          "displayType": "header",
+          "type": "markdown",
+          "sortOrder": 80,
+          "updated": "2026-02-14T21:30:43.1011423-06:00",
+          "classInfo": {},
+          "topics": [
+            {
+              "id": "_ytqoussxd0",
+              "parentId": "_1mc4mf42aw",
+              "title": "Mass-Energy Equivalence",
+              "slug": "MathNotWorking/Modern-Physics/Mass-Energy-Equivalence",
+              "link": "MathNotWorking/Modern-Physics/Mass-Energy-Equivalence.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "updated": "2026-02-14T21:32:04.4153543-06:00",
+              "classInfo": {}
+            },
+            {
+              "id": "_chw30ae5by",
+              "parentId": "_1mc4mf42aw",
+              "title": "Schrödinger Equation",
+              "slug": "MathNotWorking/Modern-Physics/Schrödinger-Equation",
+              "link": "MathNotWorking/Modern-Physics/Schrödinger-Equation.md",
+              "displayType": "topic",
+              "type": "markdown",
+              "updated": "2026-02-14T21:34:36.8685304-06:00",
+              "classInfo": {}
+            }
+          ]
+        }
+      ]
     }
   ],
   "settings": {
@@ -44,7 +119,8 @@
       "dataview": "Data view"
     },
     "webSiteBaseUrl": "",
-    "relativeBaseUrl": "/",
+    "relativeBaseUrl": "/Math/",
+    "webSiteHomeUrl": "https://DocLib.VyDevSoft.com/",
     "supportEmail": "support@yoursite.com",
     "upload": {
       "maxUploadConnections": 5
